@@ -8,6 +8,14 @@ body {
   background-color: #f5f5f5;
 }
 
+body {
+  font-family: 'Anonymous Pro', monospace;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #373a3c;
+  background-color: #fff;
+}
+
 a {
   color: #333;
 }
